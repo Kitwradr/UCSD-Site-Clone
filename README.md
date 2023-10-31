@@ -29,3 +29,8 @@ https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fphenomena
 - Remove some unused CSS files
 - Update links to static resources if the file is available
 - Compress large CSS files [cssminifier](https://www.toptal.com/developers/cssminifier)
+
+## Tasks
+
+ - Suhas : Scripts to scrape website, CSS, Assets
+ - Keran : Refactor code for optimization, CSS minify, Pictures compression, etc
