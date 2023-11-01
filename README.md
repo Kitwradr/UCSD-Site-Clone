@@ -14,6 +14,8 @@ https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fucsd.edu%
 [New homepage Lighthouse Report](
 https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fphenomenal-sopapillas-1546c3.netlify.app%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
+[HTML Preview](https://htmlpreview.github.io/?https://github.com/Kitwradr/UCSD-Site-Clone/blob/users/suhhe/files_initial/LighthouseReportNew.html)
+
 ## Metrics
 
 - Performance score: 39 -> 54
